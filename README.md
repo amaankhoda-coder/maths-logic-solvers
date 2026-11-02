@@ -14,7 +14,7 @@ You are placed in a pitch-black room with 100 identical coins on a table. Exactl
 3. Mathematically, the number of Heads in both groups will now be identical every single time.
 
 ## 2. Ritangle Competition Matrix Search (`ritangle_q1.py`)
-
+![Ritangle Question 1 Layout](ritangle_q1.png)
 
 
 
