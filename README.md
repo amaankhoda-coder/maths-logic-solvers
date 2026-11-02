@@ -17,6 +17,8 @@ You are placed in a pitch-black room with 100 identical coins on a table. Exactl
 ![Ritangle Question 1 Layout](Ritangle_q1.png)
 
 
+### Answer
+672
 
 ### Code Implementation Walkthrough
 Lines 1-2 = Creating 2 “axis” as arrays – the prime number axis x and y. 
